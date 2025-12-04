@@ -14,7 +14,7 @@
 
   <!-- Lado direito: GIF -->
   <div style="width: 50%; display: flex; justify-content: center;">
-    <img src="URL-DO-SEU-GIF-AQUI" width="350px" />
+   <img src="developer_skills_20251204002616.gif" width="350px" />
   </div>
 </div>
 ---
