@@ -9,12 +9,11 @@
 <p>
   <ul>
     <li>🌍 Morando no <b>Brasil</b></li>
-    <li> <a href=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png </a> 
-    Formando Analise e desenvolvimento de sistemas 3º sem</li>
+    <li>💻 Formando Analise e desenvolvimento de sistemas 3º sem</li>
     <li>💻 Front-end Developer em formação </li>
-    <li>  Studying <b>JavaScript, React, Tailwind, VueJs</b></li>
-    <li>⚡ Founder of <b>MVT Assistência Tec</b></li>
-    <li>🎧 Musician in my free time</li>
+    <li>  Foco em <b>JavaScript, React, Tailwind, VueJs</b></li>
+    <li>⚡ Fundador da <b>MVT Assistência Tec</b></li>
+    <li>🎧 Musico no meu tempo livre </li>
     <li>📧 Contact me: <a href="mailto:murilo.tudela@hotmail.com">mailto:murilo.tudela@hotmail.com</a></li>
   </ul>
 </p>
