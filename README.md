@@ -14,12 +14,9 @@
 
   <!-- Lado direito: GIF -->
   <div style="width: 50%; display: flex; justify-content: center;">
-   <img src="developer_skills_20251204002616.gif" width="420px" />
+    <img src="URL-DO-SEU-GIF-AQUI" width="350px" />
   </div>
-
 </div>
-
-
 ---
 
 ## ⚡ Sobre mim
