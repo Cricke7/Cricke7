@@ -2,7 +2,7 @@
 ---
 <h1 align="left">Hi, I'm Murilo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" src="developer_skills_20251204002616.gif" width="320px" alt="Coding gif">
+<img align="right" src="developer_skills_20251204002616.gif" width="300px" alt="Coding gif">
  
 <h3>🚀 Procurando a arte nos códigos</h3>
 
@@ -17,9 +17,6 @@
     <li>📧 Contact me: <a href="mailto:murilo.tudela@hotmail.com">mailto:murilo.tudela@hotmail.com</a></li>
   </ul>
 </p>
-
-
-
 
 ## ⚡ Sobre mim
 
