@@ -2,9 +2,9 @@
 ---
 <h1 align="left">Hi, I'm Murilo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3>🚀 Coding like it's 2050, but debugging like it's 1999.</h3>
+<h3>🚀 Procurando a arte nos códigos</h3>
 
-<img align="right" src="developer_skills_20251204002616.gif" width="300" alt="Coding gif">
+<img align="right" src="developer_skills_20251204002616.gif" width="300px" alt="Coding gif">
 
 <p>
   <ul>
@@ -25,7 +25,6 @@
 - 🧠 Curto aprender todos os dias e transformar conhecimento em criação.  
 - 📈 Construindo minha jornada na programação.
 
----
 
 ## 🛠️ Tecnologias & Skills
 
