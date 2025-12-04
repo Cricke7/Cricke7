@@ -4,7 +4,7 @@
 
 <h3>🚀 Procurando a arte nos códigos</h3>
 
-<img align="right" src="developer_skills_20251204002616.gif" width="300px" alt="Coding gif">
+<img align="right" src="developer_skills_20251204002616.gif" width="240px" alt="Coding gif">
 
 <p>
   <ul>
@@ -16,7 +16,7 @@
     <li>📧 Contact me: <a href="mailto:seu_email@gmail.com">seu_email@gmail.com</a></li>
   </ul>
 </p>
----
+
 
 ## ⚡ Sobre mim
 
