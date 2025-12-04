@@ -1,5 +1,4 @@
 <!-- Banner ou imagem opcional -->
-<img src="developer_skills_20251204002616.gif" width="420px" />
 
 # 👋 Eai pessoal, eu sou o Murilo!
 
@@ -7,6 +6,8 @@
 🚀 Estudando **JavaScript, React, Tailwind, VueJs**  
 🎧 Musico nas horas vagas  
 📱 Empreendedor — fundador da **MVT Assistência Tec**
+<img src="developer_skills_20251204002616.gif" width="420px" />
+
 
 ---
 
