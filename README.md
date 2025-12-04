@@ -9,7 +9,7 @@
 <p>
   <ul>
     <li>🌍 Morando no <b>Brasil</b></li>
-    <li> https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png 
+    <li> <a href=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png </a> 
     Formando Analise e desenvolvimento de sistemas 3º sem</li>
     <li>💻 Front-end Developer em formação </li>
     <li>  Studying <b>JavaScript, React, Tailwind, VueJs</b></li>
