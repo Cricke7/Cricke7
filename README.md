@@ -1,12 +1,23 @@
 <!-- Banner ou imagem opcional -->
 
-# 👋 Eai pessoal, eu sou o Murilo!
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
 
-💻 Desenvolvedor Front-end em formação  
-🚀 Estudando **JavaScript, React, Tailwind, VueJs**  
-🎧 Musico nas horas vagas  
-📱 Empreendedor — fundador da **MVT Assistência Tec**
-<img src="developer_skills_20251204002616.gif" width="420px" />
+  <!-- Lado esquerdo: Skills -->
+  <div style="width: 50%; font-size: 18px;">
+    <h2>👋 Eai pessoal, eu sou o Murilo!</h2>
+    <ul>
+      <li>💻 Desenvolvedor Front-end em formação</li>
+      <li>🚀 Estudando JavaScript, React, Tailwind, VueJs</li>
+      <li>🎧 Músico nas horas vagas</li>
+    </ul>
+  </div>
+
+  <!-- Lado direito: GIF -->
+  <div style="width: 50%; display: flex; justify-content: center;">
+   <img src="developer_skills_20251204002616.gif" width="420px" />
+  </div>
+
+</div>
 
 
 ---
