@@ -2,18 +2,20 @@
 ---
 <h1 align="left">Hi, I'm Murilo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" src="developer_skills_20251204002616.gif" width="240px" alt="Coding gif">
+<img align="right" src="developer_skills_20251204002616.gif" width="320px" alt="Coding gif">
  
 <h3>🚀 Procurando a arte nos códigos</h3>
 
 <p>
   <ul>
-    <li>🌍 Based in <b>Brazil</b></li>
-    <li>💻 Front-end Developer in training</li>
-    <li>🧠 Studying <b>JavaScript, React, Tailwind, VueJs</b></li>
+    <li>🌍 Morando no <b>Brasil</b></li>
+    <li> https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png 
+    Formando Analise e desenvolvimento de sistemas 3º sem</li>
+    <li>💻 Front-end Developer em formação </li>
+    <li>  Studying <b>JavaScript, React, Tailwind, VueJs</b></li>
     <li>⚡ Founder of <b>MVT Assistência Tec</b></li>
     <li>🎧 Musician in my free time</li>
-    <li>📧 Contact me: <a href="mailto:seu_email@gmail.com">seu_email@gmail.com</a></li>
+    <li>📧 Contact me: <a href="mailto:murilo.tudela@hotmail.com">mailto:murilo.tudela@hotmail.com</a></li>
   </ul>
 </p>
 
