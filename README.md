@@ -1,5 +1,5 @@
 <!-- Banner ou imagem opcional -->
-<img src="https://i.imgur.com/dZQ16Vx.png" width="100%" />
+<img src="developer_skills_20251204002616.gif" width="100%" />
 
 # 👋 Eai pessoal, eu sou o Murilo!
 
