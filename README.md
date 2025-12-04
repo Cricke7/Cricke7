@@ -1,22 +1,26 @@
 <!-- Banner ou imagem opcional -->
 ---
 
+<h1 align="left">Hi, I'm Murilo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h3>🚀 Coding like it's 2050, but debugging like it's 1999.</h3>
+
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
-      <h2>👋 Eai pessoal, eu sou o Murilo!</h2>
+    <td width="60%" valign="top" style="border: none;">
       <br>
-      <p>
-        💻 <b>Desenvolvedor Front-end</b> em formação<br>
-        🚀 Estudando <b>JavaScript, React, Tailwind, VueJs</b><br>
-        🎧 Músico nas horas vagas
-      </p>
-      <br>
-      <p>📱 Empreendedor — fundador da <b>MVT Assistência Tec</b></p>
+      <ul>
+        <li>🌍 Based in <b>Brazil</b></li>
+        <li>💻 Front-end Developer in training</li>
+        <li>🧠 Studying <b>JavaScript, React, Tailwind, VueJs</b></li>
+        <li>⚡ Founder of <b>MVT Assistência Tec</b></li>
+        <li>🎧 Musician in my free time</li>
+        <li>📧 Contact me: <a href="mailto:murilo.tudela@hotmail.com">murilo.tudela@hotmail.com</a></li>
+      </ul>
     </td>
-    <td width="40%" valign="top">
+    <td width="40%" valign="center" style="border: none;">
       <div align="center">
-        <img src="developer_skills_20251204002616.gif" width="420px" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding gif">
       </div>
     </td>
   </tr>
