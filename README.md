@@ -1,5 +1,5 @@
 <!-- Banner ou imagem opcional -->
-<img align="up" src="coding_20251206121751.gif" width="260px" alt="Coding gif">
+<img align="up" src="coding_20251206121751.gif" width="500px" alt="Coding gif">
 
 
 <h1 align="left">Hi, I'm Murilo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
