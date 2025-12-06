@@ -10,7 +10,7 @@
     <li>  Foco em <b>JavaScript, React, Tailwind, VueJs</b></li>
     <li>⚡ Fundador da <b>MVT Assistência Tec</b></li>
     <li>🎧 Musico no meu tempo livre </li>
-    <li>📧 Contact me: <a href="mailto:murilo.tudela@hotmail.com">mailto:murilo.tudela@hotmail.com</a></li>
+    <li>📧 Contact me: <a href="mailto:murilo.tudela@hotmail.com">murilo.tudela@hotmail.com</a></li>
   </ul>
 </p>
 
