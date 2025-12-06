@@ -52,8 +52,8 @@
 
 ## 🌎 Onde me encontrar
 
-[![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/demu_little/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/demu_little/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilo-tudela12210b)
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 
 ---
